@@ -6,7 +6,7 @@
 
 **Towards Unified Latent VLA for Whole-body Loco-manipulation Control**
 
-[![Paper](https://img.shields.io/badge/ArXiv-Coming_Soon-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](#)
+[![Paper](https://img.shields.io/badge/ArXiv-2512.11047-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.11047)
 [![Home](https://img.shields.io/badge/page-project-5F259F?style=for-the-badge&logo=homepage&logoColor=white)](https://opendrivelab.com/wholebodyvla) 
 
 </div>
@@ -49,11 +49,13 @@ WholeBodyVLA is a unified Vision-Language-Action framework for large-space human
 
 # Awesome Vision–Language–Action for Humanoid Robots
 
-*Coming soon...*
+
 
 
 
 A curated list of research on **Vision–Language–Action (VLA)** models for humanoid robots, with a focus on **loco-manipulation**.
+
+*Coming soon...*
 
 
 ## High-Level Reasoning & Planning for Humanoids
