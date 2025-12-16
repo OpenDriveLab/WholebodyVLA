@@ -301,7 +301,7 @@ We refer to and recommend several curated paper lists and repositories:
 - [Jiaaqiliu/Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics)
 
 ## Contributors
-This project is contributed by 
+This project is contributed by: 
 [Jin Chen](https://github.com/JinChen0056), 
 Yucheng Huang, 
 [Haoran Jiang](https://github.com/HRRiver7), 
