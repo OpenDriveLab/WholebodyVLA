@@ -27,7 +27,7 @@
 WholeBodyVLA is a unified Vision-Language-Action framework for large-space humanoid loco-manipulation. It learns unified latent actions from action-free egocentric videos through a Latent Action Model (LAM), and employs a loco-manipulation-oriented (LMO) RL policy for precise and stable whole-body coordination. The system encodes egocentric images and language instructions into latent action tokens, which are decoded into dual-arm joint actions and locomotion commands, enabling end-to-end control for complex loco-manipulation tasks.
 
 <div align="center">
-  <img src="asset/method.png" alt="WholeBodyVLA Method" width="90%">
+  <img src="asset/method.gif" alt="WholeBodyVLA Method" width="90%">
 </div>
 
 <div align="center">
