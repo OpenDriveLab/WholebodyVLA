@@ -147,7 +147,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.26633), [Demo](https://omniretarget.github.io/), [Code](https://github.com/amazon-far/holosoma)] OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction [Humanoid-Scene Interaction]
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.16638), [Demo](https://kungfubot2-humanoid.github.io/), [Code](https://github.com/TeleHuman/PBHC)] KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.13833), [Demo](https://zzk273.github.io/Any2Track/), [Code](https://github.com/GalaxyGeneralRobotics/OpenTrack)] Track Any Motions under Any Disturbances
-- [[arXiv 2025.09](https://arxiv.org/abs/2509.13780), [Demo](https://bfm4humanoid.github.io/)], Behavior Foundation Model for Humanoid Robots
+- [[arXiv 2025.09](https://arxiv.org/abs/2509.13780), [Demo](https://bfm4humanoid.github.io/)] Behavior Foundation Model for Humanoid Robots
 - [[arXiv 2025.08](https://arxiv.org/abs/2508.08241), [Demo](https://beyondmimic.github.io/), [Code](https://github.com/HybridRobotics/whole_body_tracking)] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion
 - [[arXiv 2025.07](https://arxiv.org/abs/2507.07356), [Demo](https://yinkangning0124.github.io/Humanoid-UniTracker/)] UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots
 - [NeurIPS 2025, [arXiv 2025.06](https://arxiv.org/abs/2506.12779), [Demo](https://beingbeyond.github.io/BumbleBee/)] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots
@@ -174,7 +174,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.05](https://arxiv.org/abs/2505.24198), [Demo](https://lecar-lab.github.io/SoFTA/), [Code](https://github.com/LeCAR-Lab/SoFTA)] Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control
 - [RSS 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.03738), [Demo](https://amo-humanoid.github.io/)] AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control
 - [[arXiv 2025.05](https://arxiv.org/abs/2505.06776), [Demo](https://lecar-lab.github.io/falcon-humanoid/), [Code](https://github.com/LeCAR-Lab/FALCON)] FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation
-- [NeurIPS 2025, [arXiv 2025.04](https://arxiv.org/abs/2504.14305), [Demo](https://almi-humanoid.github.io/)], Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning
+- [NeurIPS 2025, [arXiv 2025.04](https://arxiv.org/abs/2504.14305), [Demo](https://almi-humanoid.github.io/)] Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning
 - [RSS 2025, [arXiv 2025.02](https://arxiv.org/abs/2502.13013), [Demo](https://homietele.github.io/), [Code](https://github.com/InternRobotics/OpenHomie)] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit
 
 
@@ -186,12 +186,12 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.01607)] ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.03022)] HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton [force feedback exoskeleton]
 - [CoRL 2025, [arXiv 2025.09](https://arxiv.org/abs/2509.14688), [GitHub](https://github.com/silicx/exUMI)] exUMI: Extensible Robot Teaching System with Action-aware Task-agnostic Tactile Representation [Organic combination of XR and UMI]
-- [CoRL 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.21864), [Hardware](https://dex-umi.github.io/tutorial/hardware.html)],  DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [UMI For Dextrous Hands]
-- [CoRL 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.02833), [Code](https://github.com/YanjieZe/TWIST)],  TWIST: Teleoperated Whole-Body Imitation System
+- [CoRL 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.21864), [Hardware](https://dex-umi.github.io/tutorial/hardware.html)]  DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [UMI For Dextrous Hands]
+- [CoRL 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.02833), [Code](https://github.com/YanjieZe/TWIST)]  TWIST: Teleoperated Whole-Body Imitation System
 - [RSS 2025, [arXiv 2025.02](https://arxiv.org/abs/2502.13013), [Hardware](https://homietele.github.io/#hardware)] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [upper body exoskeleton, throttle speed and direction control]
 - [CoRL 2025, [arXiv 2024.09](https://arxiv.org/abs/2409.19499), [Code](https://github.com/zxzm-zak/FastUMI_Data)] FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset [Improved version of UMI]
 - [CoRL 2024, [arXiv 2024.08](https://arxiv.org/abs/2408.11805), [Hardware](https://github.com/ACETeleop/ACE_hardware)] ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation [cross-platform visual-exoskeletons]
-- [CoRL 2024, [arXiv 2024.07](https://arxiv.org/abs/2407.10353), [Code](https://github.com/real-stanford/umi-on-legs)],  UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers [UMI on robot dogs]
+- [CoRL 2024, [arXiv 2024.07](https://arxiv.org/abs/2407.10353), [Code](https://github.com/real-stanford/umi-on-legs)]  UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers [UMI on robot dogs]
 - [CoRL 2024, [arXiv 2024.07](https://arxiv.org/abs/2407.01512), [Code](https://github.com/OpenTeleVision/TeleVision)] Open-TeleVision: Teleoperation with Immersive Active Visual Feedback [XR humanoid robot teleopreation]
 - [IROS 2025, [arXiv 2024.07](https://arxiv.org/abs/2407.03162), [Code](https://github.com/Dingry/BunnyVisionPro)] Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning [XR robot teleopreation, tactile vibration feedback] 
 - [RSS 2024, [arXiv 2024.02](https://arxiv.org/abs/2402.10329), [Code](https://github.com/real-stanford/universal_manipulation_interface), [Hardware](https://docs.google.com/document/d/1TPYwV9sNVPAi0ZlAupDMkXZ4CA1hsZx7YDMSmcEy6EU/edit?tab=t.0#heading=h.5k5vwx2iqjqg)] Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots [UMI's foundational work]
@@ -214,18 +214,18 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 
 ### Manipulation
-- [[blog 2025.12](https://research.nvidia.com/labs/gear/gr00t-n1_6/), [Code](https://github.com/NVIDIA/Isaac-GR00T/tree/main)], GR00T N1.6: An Improved Open Foundation Model for Generalist Humanoid Robots
-- [Survey, [PDF](https://openreview.net/forum?id=Seb7rprW1Y)], Intelligent Robot Manipulation Requires Self-Directed Learning
-- [[blog 2025.11](https://generalistai.com/blog/nov-04-2025-GEN-0)], Embodied Foundation Models That Scale with Physical Interaction
+- [[blog 2025.12](https://research.nvidia.com/labs/gear/gr00t-n1_6/), [Code](https://github.com/NVIDIA/Isaac-GR00T/tree/main)] GR00T N1.6: An Improved Open Foundation Model for Generalist Humanoid Robots
+- [Survey, [PDF](https://openreview.net/forum?id=Seb7rprW1Y)] Intelligent Robot Manipulation Requires Self-Directed Learning
+- [[blog 2025.11](https://generalistai.com/blog/nov-04-2025-GEN-0)] Embodied Foundation Models That Scale with Physical Interaction
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.17502), [GitHub](https://github.com/alibaba-damo-academy/RynnVLA-002)] RynnVLA-002: A Unified Vision-Language-Action and World Model
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.14659), [GitHub](https://github.com/declare-lab/nora-1.5)] NORA-1.5: A Vision-Language-Action Model Trained using World Model and Action-based Preference Reward
-- [[arXiv 2025.11](https://arxiv.org/abs/2511.18112)], EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation [VLA for Mobile Manipulation]
+- [[arXiv 2025.11](https://arxiv.org/abs/2511.18112)] EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation [VLA for Mobile Manipulation]
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.10274), [GitHub](https://github.com/2toinf/X-VLA)] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.11766), [GitHub](https://github.com/X-Square-Robot/wall-x)] Igniting VLMs toward the Embodied Space [WALL-OSS]
-- [[blog 2025.08](https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing)], Large Behavior Models and Atlas Find New Footing
+- [[blog 2025.08](https://bostondynamics.com/blog/large-behavior-models-atlas-find-new-footing)] Large Behavior Models and Atlas Find New Footing
 - [[arXiv 2025.08](https://arxiv.org/abs/2508.05635), [GitHub](https://github.com/AgibotTech/Genie-Envisioner)] Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation [GE-Act]
-- [[arXiv 2025.07](https://arxiv.org/abs/2507.05331)], A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation
-- [[arXiv 2025.07](https://arxiv.org/abs/2507.15493)], GR-3 Technical Report
+- [[arXiv 2025.07](https://arxiv.org/abs/2507.05331)] A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation
+- [[arXiv 2025.07](https://arxiv.org/abs/2507.15493)] GR-3 Technical Report
 - [[arXiv 2025.06](https://arxiv.org/abs/2506.01844), [GitHub](https://github.com/huggingface/lerobot)] SmolVLA: A vision-language-action model for affordable and efficient robotics
 - [CoRL 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.03233), [GitHub](https://github.com/PKU-EPIC/GraspVLA)] GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data
 - [CoRL 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.23692), [GitHub](https://github.com/yjy0625/mobipi)] Mobi-π: Mobilizing Your Robot Learning Policy [VLA for Mobile Manipulation]
@@ -233,8 +233,8 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.03](https://arxiv.org/abs/2503.14734), [GitHub](https://github.com/NVIDIA/Isaac-GR00T)] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots
 - [IROS 2025, [arXiv 2025.03](https://arxiv.org/abs/2503.06669), [GitHub](https://github.com/OpenDriveLab/Agibot-World)] AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [large-scale manipulation dataset, GO-1] 
 - [CVPR 2025, [arXiv 2025.03](https://arxiv.org/abs/2503.13446), [GitHub](https://gary3410.github.io/momanipVLA/)] MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation [VLA for Mobile Manipulation]
-- [[arXiv 2025.03](https://arxiv.org/abs/2503.20020)], Gemini Robotics: Bringing AI into the Physical World
-- [[arXiv 2025.02](https://arxiv.org/abs/2502.14795)], Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration
+- [[arXiv 2025.03](https://arxiv.org/abs/2503.20020)] Gemini Robotics: Bringing AI into the Physical World
+- [[arXiv 2025.02](https://arxiv.org/abs/2502.14795)] Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration
 - [[arXiv 2025.02](https://arxiv.org/abs/2502.20900), [GitHub](https://github.com/Psi-Robot/DexGraspVLA)] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping
 - [[arXiv 2025.02](https://arxiv.org/abs/2502.05855), [GitHub](https://github.com/juruobenruo/DexVLA)] DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control
 - [RSS 2025, [arXiv 2025.02](https://arxiv.org/abs/2502.19645), [GitHub](https://github.com/moojink/openvla-oft)] Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success [OpenVLA-OFT]
@@ -244,12 +244,12 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 #### Learning from Human Videos
 
-- [IROS 2025, [arXiv 2025.11](https://arxiv.org/abs/2511.05199)], Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation
+- [IROS 2025, [arXiv 2025.11](https://arxiv.org/abs/2511.05199)] Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.21571), [GitHub](https://github.com/microsoft/ViTra)] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.22199), [GitHub](https://github.com/GigaAI-research/MimicDreamer)] MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.15212), [GitHub](https://github.com/alibaba-damo-academy/RynnVLA-001)] RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.19958), [GitHub](https://github.com/insait-institute/motovla)] Generalist Robot Manipulation beyond Action Labeled Data
-- [[arXiv 2025.09](https://arxiv.org/abs/2509.21723)], VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation
+- [[arXiv 2025.09](https://arxiv.org/abs/2509.21723)] VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation
 - [ICCV 2025, [arXiv 2025.08](https://arxiv.org/abs/2508.07626), [GitHub](https://github.com/idejie/ar)] AR-VRM: Imitating Human Motions for Visual Robot Manipulation with Analogical Reasoning
 - [[arXiv 2025.07](https://arxiv.org/abs/2507.23523v1), [GitHub](https://github.com/HongzheBi/H_RDT)] H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation
 - [[arXiv 2025.07](https://arxiv.org/abs/2507.15597), [GitHub](https://github.com/BeingBeyond/Being-H0)] Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos
@@ -257,18 +257,18 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.06](https://arxiv.org/abs/2506.16475), [GitHub](https://github.com/chrisyrniu/Human2LocoMan)] Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining
 - [[arXiv 2025.05](https://arxiv.org/abs/2505.11709), [GitHub](https://github.com/apple/ml-egodex)] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video
 - [RSS 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.06111), [GitHub](https://github.com/OpenDriveLab/UniVLA)] UniVLA: Learning to Act Anywhere with Task-centric Latent Actions
-- [[arXiv 2025.05](https://arxiv.org/abs/2505.20795)], Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt
+- [[arXiv 2025.05](https://arxiv.org/abs/2505.20795)] Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt
 - [[arXiv 2025.03](https://arxiv.org/abs/2503.23877), [GitHub](https://github.com/junyaoshi/ZeroMimic)] ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos
 - [ICLR 2025, [arXiv 2024.10](https://arxiv.org/abs/2410.11758), [GitHub](https://github.com/LatentActionPretraining/LAPA)] Latent Action Pretraining from Videos
 - [CoRL 2024, [arXiv 2024.10](https://arxiv.org/abs/2410.24221), [GitHub](https://github.com/SimarKareer/EgoMimic)] EgoMimic: Scaling Imitation Learning via Egocentric Video
 - [CVPR 2025, [arXiv 2024.06](https://arxiv.org/abs/2406.14235), [GitHub](https://github.com/jiaming-zhou/HumanRobotAlign)] Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation
-- [CoRL 2024, [arXiv 2024.05](https://arxiv.org/abs/2405.20321)], Vision-based Manipulation from Single Human Video with Open-World Object Graphs
+- [CoRL 2024, [arXiv 2024.05](https://arxiv.org/abs/2405.20321)] Vision-based Manipulation from Single Human Video with Open-World Object Graphs
 - [CoRL 2022, [arXiv 2022.03](https://arxiv.org/abs/2203.12601), [GitHub](https://github.com/facebookresearch/r3m)] R3M: A Universal Visual Representation for Robot Manipulation
 ### Navigation
 
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.08186), [GitHub](https://github.com/InternRobotics/InternNav)] Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation [fast-slow system]
 - [[2025.09](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf), [GitHub](https://github.com/InternRobotics/InternNav)] A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks [large-scale data]
-- [[arXiv 2025.09](https://arxiv.org/abs/2509.12129)], Embodied Navigation Foundation Model [multi-view, UAV]
+- [[arXiv 2025.09](https://arxiv.org/abs/2509.12129)] Embodied Navigation Foundation Model [multi-view, UAV]
 - [[arXiv 2025.08](https://arxiv.org/abs/2508.04598), [GitHub](https://github.com/linglingxiansen/NavA3)] NavA3: Understanding Any Instruction, Navigating Anywhere, Finding Anything
 - [[arXiv 2025.08](https://arxiv.org/abs/2508.10416)] CorrectNav: Self-Correction Flywheel Empowers Vision-Language-Action Navigation Model
 - [[arXiv 2025.07](https://arxiv.org/abs/2507.05240), [GitHub](https://github.com/InternRobotics/StreamVLN)] StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling [use KV-cache to accelerate the inference]
