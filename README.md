@@ -37,7 +37,7 @@ WholeBodyVLA is a unified Vision-Language-Action framework for large-space human
 
 **See more on [project website](https://opendrivelab.com/wholebodyvla).**
 
-📝 **Note:** We currently have no concrete plan to open-source the codebase. This repository now serves as a collection of resources and references for the whole-body humanoid VLA research community. We welcome discussion and collaboration!
+📝 **Note:**  We currently have no concrete timeline for open-sourcing the codebase. This repository now serves as a collection of resources and references for the whole-body humanoid VLA research community. We welcome discussion and collaboration!
 
 
 
@@ -71,7 +71,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.11](https://arxiv.org/abs/2510.11072), [Demo](https://why618188.github.io/physhsi/), [Code](https://github.com/InternRobotics/PhysHSI)] PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System [liDAR+AprilTag+SLAM]
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.11258), [Demo](https://beingbeyond.github.io/DemoHLM/)] DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation [FoundationPose++]
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.03022), [Demo](https://humanoid-exo.github.io/)] HumanoidExo: Scalable Whole-Body Humanoid Manipulation via Wearable Exoskeleton
- - [[arXiv 2025.10](https://arxiv.org/abs/2510.08807),[Data](https://humanoideveryday.github.io/data_viewer/data_viewer_page.html)] Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation [humanoid manipulation dataset]
+ - [[arXiv 2025.10](https://arxiv.org/abs/2510.08807), [Data](https://humanoideveryday.github.io/data_viewer/data_viewer_page.html)] Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation [humanoid manipulation dataset]
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.20322), [Demo](https://visualmimic.github.io/), [Code](https://github.com/visualmimic/VisualMimic)] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.13200), [Demo](https://icradooropen.github.io/icradooropen/#)] StageACT: Stage-Conditioned Imitation for Robust Humanoid Door Opening
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.11839), [Demo](https://jiachengliu3.github.io/TrajBooster/), [Code](https://github.com/OpenHelix-Team/OpenTrajBooster)] TrajBooster: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning
@@ -84,8 +84,8 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.03](https://arxiv.org/abs/2503.12533), [Demo](https://beingbeyond.github.io/Being-0/)]Being-0: A Humanoid Robotic Agent with Vision-Language Models and Modular Skills [modular skill]
 - [Survey, [arXiv 2025.01](https://arxiv.org/abs/2501.02116)] Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning
 - [IROS 2025, [arXiv 2024.10](https://arxiv.org/abs/2410.10803), [Demo](https://humanoid-manipulation.github.io/), [Code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)] Generalizable Humanoid Manipulation with 3D Diffusion Policies
- - [[arXiv 2024.09](https://arxiv.org/abs/2409.20514),[Demo](https://opt2skill.github.io/)] Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation
- - [[arXiv 2024.06](https://arxiv.org/abs/2406.14655v1),[Demo](https://hy-motion.github.io/)] HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation
+ - [[arXiv 2024.09](https://arxiv.org/abs/2409.20514), [Demo](https://opt2skill.github.io/)] Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation
+ - [[arXiv 2024.06](https://arxiv.org/abs/2406.14655v1), [Demo](https://hy-motion.github.io/)] HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation
 
 #### Other task
 
@@ -93,9 +93,9 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.06571), [Demo](https://humanoid-kick.github.io/)] Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots [YOLOv8]
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.04679), [Demo](https://gentle-humanoid.axell.top/#/)] GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.18002), [Demo](https://humanoid-goalkeeper.github.io/Goalkeeper/), [Code](https://github.com/InternRobotics/Humanoid-Goalkeeper)] Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints
-- [[arXiv 2025.10](https://arxiv.org/abs/2510.11682),[Demo](https://ego-vcp.github.io/), [Code](https://github.com/HybridRobotics/Ego-VCP)] Ego-Vision World Model for Humanoid Contact Planning [depth, world model]
-- [CoRL 2025, [arXiv 2025.08](https://arxiv.org/abs/2508.03068),[Demo](https://stanford-tml.github.io/HEAD/), [Code](https://github.com/Stanford-TML/HEAD_release)] Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching
-- [[arXiv 2025.06](https://arxiv.org/abs/2506.13751),[Demo](https://ember-lab-berkeley.github.io/LeVERB-Website/)] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction [LeVERB-Bench]
+- [[arXiv 2025.10](https://arxiv.org/abs/2510.11682), [Demo](https://ego-vcp.github.io/), [Code](https://github.com/HybridRobotics/Ego-VCP)] Ego-Vision World Model for Humanoid Contact Planning [depth, world model]
+- [CoRL 2025, [arXiv 2025.08](https://arxiv.org/abs/2508.03068), [Demo](https://stanford-tml.github.io/HEAD/), [Code](https://github.com/Stanford-TML/HEAD_release)] Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching
+- [[arXiv 2025.06](https://arxiv.org/abs/2506.13751), [Demo](https://ember-lab-berkeley.github.io/LeVERB-Website/)] LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction [LeVERB-Bench]
 - [[arXiv 2025.02](https://arxiv.org/abs/2502.14795)] Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration
 
 
@@ -124,7 +124,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.09241)] Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots 
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.07820), [Demo](https://nvlabs.github.io/SONIC/)] SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control [[GENMO](https://github.com/NVlabs/GENMO)]
 - [[arXiv 2025.11](https://arxiv.org/abs/2510.14952), [Demo](https://gentlefress.github.io/roboghost-proj/)] From Language To Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance
-- [[arXiv 2025.09](https://arxiv.org/abs/2509.14353),[Demo](https://genrobo.github.io/DreamControl/), [Code](https://github.com/GenRobo/DreamControl)] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion
+- [[arXiv 2025.09](https://arxiv.org/abs/2509.14353), [Demo](https://genrobo.github.io/DreamControl/), [Code](https://github.com/GenRobo/DreamControl)] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion
 - [[arXiv 2025.04](https://arxiv.org/abs/2504.16843v1)] Physically Consistent Humanoid Loco-Manipulation using Latent Diffusion Models
 - [[arXiv 2025.04](https://arxiv.org/abs/2504.21738), [Demo](https://www.youtube.com/watch?v=9AN0GulqWwc)] LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning
 - [CoRL 2024, [arXiv 2024.10](https://arxiv.org/abs/2410.12773), [Demo](https://ut-austin-rpl.github.io/Harmon/)] Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions
@@ -140,13 +140,13 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.17373), [Demo](https://opendrivelab.com/AMS/)] Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data [synthetic motion data, scalable learning]
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.07820), [Demo](https://nvlabs.github.io/SONIC/)] SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control [scalable learning]
-- [[arXiv 2025.11](https://arxiv.org/abs/2511.04131),[Demo](https://lecar-lab.github.io/BFM-Zero/)] BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning [unsupervised RL] 
+- [[arXiv 2025.11](https://arxiv.org/abs/2511.04131), [Demo](https://lecar-lab.github.io/BFM-Zero/)] BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning [unsupervised RL] 
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.02832), [Demo](https://yanjieze.com/TWIST2/), [Code](https://github.com/amazon-far/TWIST2)] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System [whole-body data collection]
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.02252), [Code](https://github.com/YanjieZe/GMR)] Retargeting Matters: General Motion Retargeting for Humanoid [motion data retargeting]
 - [[blog](https://horizonrobotics.github.io/robot_lab/holomotion/), [Code](https://github.com/HorizonRobotics/HoloMotion)] HoloMotion: A Foundation Model for Whole-Body Humanoid Control
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.26633), [Demo](https://omniretarget.github.io/), [Code](https://github.com/amazon-far/holosoma)] OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction [Humanoid-Scene Interaction]
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.16638), [Demo](https://kungfubot2-humanoid.github.io/), [Code](https://github.com/TeleHuman/PBHC)] KungfuBot2: Learning Versatile Motion Skills for Humanoid Whole-Body Control
-- [[arXiv 2025.09](https://arxiv.org/abs/2509.13833), [Demo](https://zzk273.github.io/Any2Track/),[Code](https://github.com/GalaxyGeneralRobotics/OpenTrack)] Track Any Motions under Any Disturbances
+- [[arXiv 2025.09](https://arxiv.org/abs/2509.13833), [Demo](https://zzk273.github.io/Any2Track/), [Code](https://github.com/GalaxyGeneralRobotics/OpenTrack)] Track Any Motions under Any Disturbances
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.13780), [Demo](https://bfm4humanoid.github.io/)], Behavior Foundation Model for Humanoid Robots
 - [[arXiv 2025.08](https://arxiv.org/abs/2508.08241), [Demo](https://beyondmimic.github.io/), [Code](https://github.com/HybridRobotics/whole_body_tracking)] BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion
 - [[arXiv 2025.07](https://arxiv.org/abs/2507.07356), [Demo](https://yinkangning0124.github.io/Humanoid-UniTracker/)] UniTracker: Learning Universal Whole-Body Motion Tracker for Humanoid Robots
