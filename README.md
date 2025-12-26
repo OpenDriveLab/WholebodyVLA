@@ -308,7 +308,7 @@ This project is contributed by:
 [Yixuan Pan](https://lzpyx.github.io/), 
 [Shijia Peng](https://github.com/ShijiaPeng03), 
 [Jialong Zeng](https://github.com/jialongzeng), 
-[Hai Zhang](https://github.com/betray12138). 
+[Hai Zhang](https://betray12138.github.io/resume/). 
 
 All names are listed in alphabetical order by last name.
 
