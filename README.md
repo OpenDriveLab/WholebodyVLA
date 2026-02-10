@@ -66,8 +66,8 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 - [[arXiv 2026.02](https://arxiv.org/abs/2602.06643), [Demo](https://humanoid-manipulation-interface.github.io/#/)] Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations [umi data]
 - [[arXiv 2026.02](https://arxiv.org/pdf/2602.06341)] HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation
-
-- [[arXiv 2025.12](https://arxiv.org/abs/2512.11047), [Demo](https://opendrivelab.com/WholeBodyVLA/)] WholeBodyVLA: Towards Unified Latent VLA for Whole-body Loco-manipulation Control [unified latent learning]
+- [[arXiv 2026.01](https://arxiv.org/pdf/2512.25072), [Demo](https://choice-policy.github.io), [GitHub](https://github.com/x-robotics-lab/minbc)] Coordinated Humanoid Manipulation with Choice Policies [hand-eye coordination]
+- [ICLR 2026, [arXiv 2025.12](https://arxiv.org/abs/2512.11047), [Demo](https://opendrivelab.com/WholeBodyVLA/)] WholeBodyVLA: Towards Unified Latent VLA for Whole-body Loco-manipulation Control [unified latent learning]
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.01061), [Demo](https://doorman-humanoid.github.io/)] Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer [visual RL, sim-to-real]
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.15200), [Demo](https://viral-humanoid.github.io/)] VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [visual RL, sim-to-real]
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.14756), [Demo](https://loco-hmc.github.io/)] HMC: Learning Heterogeneous Meta-Control for Contact-Rich Loco-Manipulation 
@@ -142,9 +142,9 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 ### Behavior Foundation Models / Universal Whole-Body Tracking
 
 
-- [[arXiv 2025.11](https://arxiv.org/abs/2511.17373), [Demo](https://opendrivelab.com/AMS/)] Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data [synthetic motion data, scalable learning]
+- [ICRA 2026, [arXiv 2025.11](https://arxiv.org/abs/2511.17373), [Demo](https://opendrivelab.com/AMS/)] Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data [synthetic motion data, scalable learning]
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.07820), [Demo](https://nvlabs.github.io/SONIC/)] SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control [scalable learning]
-- [[arXiv 2025.11](https://arxiv.org/abs/2511.04131), [Demo](https://lecar-lab.github.io/BFM-Zero/)] BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning [unsupervised RL] 
+- [ICLR 2026, [arXiv 2025.11](https://arxiv.org/abs/2511.04131), [Demo](https://lecar-lab.github.io/BFM-Zero/), [GitHub](https://github.com/LeCAR-Lab/BFM-Zero)] BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning [unsupervised RL] 
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.02832), [Demo](https://yanjieze.com/TWIST2/), [Code](https://github.com/amazon-far/TWIST2)] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System [whole-body data collection]
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.02252), [Code](https://github.com/YanjieZe/GMR)] Retargeting Matters: General Motion Retargeting for Humanoid [motion data retargeting]
 - [[blog](https://horizonrobotics.github.io/robot_lab/holomotion/), [Code](https://github.com/HorizonRobotics/HoloMotion)] HoloMotion: A Foundation Model for Whole-Body Humanoid Control
@@ -277,8 +277,9 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [CVPR 2025, [arXiv 2024.06](https://arxiv.org/abs/2406.14235), [GitHub](https://github.com/jiaming-zhou/HumanRobotAlign)] Mitigating the Human-Robot Domain Discrepancy in Visual Pre-training for Robotic Manipulation
 - [CoRL 2024, [arXiv 2024.05](https://arxiv.org/abs/2405.20321)] Vision-based Manipulation from Single Human Video with Open-World Object Graphs
 - [CoRL 2022, [arXiv 2022.03](https://arxiv.org/abs/2203.12601), [GitHub](https://github.com/facebookresearch/r3m)] R3M: A Universal Visual Representation for Robot Manipulation
-### Navigation
 
+### Navigation
+- [[arXiv 2026.02](https://arxiv.org/abs/2602.05827), [Demo](https://opendrivelab.com/SparseVideoNav/)] Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.08186), [GitHub](https://github.com/InternRobotics/InternNav)] Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation [fast-slow system]
 - [[2025.09](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf), [GitHub](https://github.com/InternRobotics/InternNav)] A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks [large-scale data]
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.12129)] Embodied Navigation Foundation Model [multi-view, UAV]
