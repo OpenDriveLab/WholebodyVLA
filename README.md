@@ -64,6 +64,9 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 #### Manipulation
 
+- [[arXiv 2026.02](https://arxiv.org/abs/2602.06643), [Demo](https://humanoid-manipulation-interface.github.io/#/)] Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations [umi data]
+- [[arXiv 2026.02](https://arxiv.org/pdf/2602.06341)] HiWET: Hierarchical World-Frame End-Effector Tracking for Long-Horizon Humanoid Loco-Manipulation
+
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.11047), [Demo](https://opendrivelab.com/WholeBodyVLA/)] WholeBodyVLA: Towards Unified Latent VLA for Whole-body Loco-manipulation Control [unified latent learning]
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.01061), [Demo](https://doorman-humanoid.github.io/)] Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer [visual RL, sim-to-real]
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.15200), [Demo](https://viral-humanoid.github.io/)] VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [visual RL, sim-to-real]
@@ -89,6 +92,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 #### Other task
 
+- [[arXiv 2026.12](https://arxiv.org/pdf/2602.05310)] Learning Soccer Skills for Humanoid Robots: AProgressive Perception-Action Framework
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.06571)] Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input [YOLOv8]
 - [[arXiv 2025.12](https://arxiv.org/abs/2512.06571), [Demo](https://humanoid-kick.github.io/)] Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots [YOLOv8]
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.04679), [Demo](https://gentle-humanoid.axell.top/#/)] GentleHumanoid: Learning Upper-body Compliance for Contact-rich Human and Object Interaction
@@ -103,7 +107,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 ### MoCap-Based  Planning
 
-
+- [[arXiv 2026.02](https://arxiv.org/pdf/2602.02473), [Demo](https://humanoid-manipulation-interface.github.io/#/)] HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.11218)] Humanoid Whole-Body Badminton via Multi-Stage Reinforcement Learning
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.18002), [Demo](https://humanoid-goalkeeper.github.io/Goalkeeper/), [Code](https://github.com/InternRobotics/Humanoid-Goalkeeper)] Humanoid Goalkeeper: Learning from Position Conditioned Task-Motion Constraints
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.05070), [Demo](https://resmimic.github.io/)] ResMimic: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning
@@ -118,8 +122,8 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 ### Generative Motion and Trajectory Planning
 
-
-- [[Code](https://github.com/OpenMOSS/FRoM-W1?tab=readme-ov-file)] FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions
+- [[arXiv](https://arxiv.org/pdf/2512.23464), [Code](https://github.com/Tencent-Hunyuan/HY-Motion-1.0?tab=readme-ov-file)] HY-Motion 1.0: Scaling Flow Matching Models for 3D Motion Generation [motion generation foundation model]
+- [[arXiv](https://arxiv.org/abs/2601.12799), [Code](https://github.com/OpenMOSS/FRoM-W1?tab=readme-ov-file)] FRoM-W1: Towards General Humanoid Whole-Body Control with Language Instructions
 - [[Demo](https://text-op.github.io/), [Code](https://github.com/TeleHuman/TextOp/tree/main)] TextOp: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.09241)] Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots 
 - [[arXiv 2025.11](https://arxiv.org/abs/2511.07820), [Demo](https://nvlabs.github.io/SONIC/)] SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control [[GENMO](https://github.com/NVlabs/GENMO)]
@@ -203,6 +207,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
  - [[arXiv 2025.11](https://arxiv.org/abs/2511.02832), [Hardware](https://yanjieze.com/TWIST2/)] TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System [TWIST2 Neck]
  - [[arXiv 2025.10](https://arxiv.org/abs/2510.11258)] DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation [2-DoF neck]
  - [CoRL 2025, [arXiv 2025.08](https://arxiv.org/abs/2508.03068)] Hand-Eye Autonomous Delivery: Learning Humanoid Navigation, Locomotion and Reaching [navigation camera + reaching camera]
+ - [ICRA 2025, [arXiv 2025.06](https://arxiv.org/abs/2506.01941), [GitHub](https://github.com/OpenDriveLab/FreeTacMan)] Robot-free Visuo-Tactile Data Collection System and Dataset [visuo-tactile]
  - [RSS 2025, [arXiv 2025.05](https://arxiv.org/abs/2505.03738)] AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control [3-DoF active head]
  - [[arXiv 2025.02](https://arxiv.org/abs/2502.00893), [Hardware](https://github.com/hshi74/toddlerbot)] ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation [Low-cost Humanoid Robot]
   - [ICRA 2025, [arXiv 2024.12](https://arxiv.org/abs/2412.07773)] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control
@@ -220,6 +225,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [[pdf 2026.02](https://dreamzero0.github.io/DreamZero.pdf)] World Action Models are Zero-shot Policies [DreamZero]
 - [[arXiv 2026.02](https://arxiv.org/abs/2602.03310), [GitHub](https://github.com/thu-ml/RDT2)] RDT2: Enabling Zero-Shot Cross-Embodiment Generalization by Scaling Up UMI Data
 - [[arXiv 2026.01](https://arxiv.org/abs/2601.18692), [GitHub](https://github.com/Robbyant/lingbot-vla)] LingBot-VLA: A Pragmatic VLA Foundation Model
+- [[arXiv 2025.12](https://arxiv.org/abs/2512.15692)] mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs
 - [[blog 2025.11](https://www.pi.website/blog/pistar06)] π*0.6: a VLA that Learns from Experience
 - [[blog 2025.12](https://research.nvidia.com/labs/gear/gr00t-n1_6/), [Code](https://github.com/NVIDIA/Isaac-GR00T/tree/main)] GR00T N1.6: An Improved Open Foundation Model for Generalist Humanoid Robots
 - [Survey, [PDF](https://openreview.net/forum?id=Seb7rprW1Y)] Intelligent Robot Manipulation Requires Self-Directed Learning
