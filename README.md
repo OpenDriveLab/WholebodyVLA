@@ -214,6 +214,13 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 
 ### Manipulation
+
+- [[arXiv 2026.02](https://arxiv.org/abs/2602.09021), [GitHub](https://github.com/OpenDriveLab/kai0)] χ₀: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies
+- [[arXiv 2026.02](https://arxiv.org/pdf/2602.06949)] DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
+- [[pdf 2026.02](https://dreamzero0.github.io/DreamZero.pdf)] World Action Models are Zero-shot Policies [DreamZero]
+- [[arXiv 2026.02](https://arxiv.org/abs/2602.03310), [GitHub](https://github.com/thu-ml/RDT2)] RDT2: Enabling Zero-Shot Cross-Embodiment Generalization by Scaling Up UMI Data
+- [[arXiv 2026.01](https://arxiv.org/abs/2601.18692), [GitHub](https://github.com/Robbyant/lingbot-vla)] LingBot-VLA: A Pragmatic VLA Foundation Model
+- [[blog 2025.11](https://www.pi.website/blog/pistar06)] π*0.6: a VLA that Learns from Experience
 - [[blog 2025.12](https://research.nvidia.com/labs/gear/gr00t-n1_6/), [Code](https://github.com/NVIDIA/Isaac-GR00T/tree/main)] GR00T N1.6: An Improved Open Foundation Model for Generalist Humanoid Robots
 - [Survey, [PDF](https://openreview.net/forum?id=Seb7rprW1Y)] Intelligent Robot Manipulation Requires Self-Directed Learning
 - [[blog 2025.11](https://generalistai.com/blog/nov-04-2025-GEN-0)] Embodied Foundation Models That Scale with Physical Interaction
@@ -234,7 +241,6 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 - [IROS 2025, [arXiv 2025.03](https://arxiv.org/abs/2503.06669), [GitHub](https://github.com/OpenDriveLab/Agibot-World)] AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [large-scale manipulation dataset, GO-1] 
 - [CVPR 2025, [arXiv 2025.03](https://arxiv.org/abs/2503.13446), [GitHub](https://gary3410.github.io/momanipVLA/)] MoManipVLA: Transferring Vision-language-action Models for General Mobile Manipulation [VLA for Mobile Manipulation]
 - [[arXiv 2025.03](https://arxiv.org/abs/2503.20020)] Gemini Robotics: Bringing AI into the Physical World
-- [[arXiv 2025.02](https://arxiv.org/abs/2502.14795)] Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration
 - [[arXiv 2025.02](https://arxiv.org/abs/2502.20900), [GitHub](https://github.com/Psi-Robot/DexGraspVLA)] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping
 - [[arXiv 2025.02](https://arxiv.org/abs/2502.05855), [GitHub](https://github.com/juruobenruo/DexVLA)] DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control
 - [RSS 2025, [arXiv 2025.02](https://arxiv.org/abs/2502.19645), [GitHub](https://github.com/moojink/openvla-oft)] Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success [OpenVLA-OFT]
@@ -244,6 +250,7 @@ A curated list of research on **Vision–Language–Action (VLA)** models and re
 
 #### Learning from Human Videos
 
+- [[arXiv 2026.02](https://arxiv.org/pdf/2602.06949)] DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
 - [IROS 2025, [arXiv 2025.11](https://arxiv.org/abs/2511.05199)] Let Me Show You: Learning by Retrieving from Egocentric Video for Robotic Manipulation
 - [[arXiv 2025.10](https://arxiv.org/abs/2510.21571), [GitHub](https://github.com/microsoft/ViTra)] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos
 - [[arXiv 2025.09](https://arxiv.org/abs/2509.22199), [GitHub](https://github.com/GigaAI-research/MimicDreamer)] MimicDreamer: Aligning Human and Robot Demonstrations for Scalable VLA Training
